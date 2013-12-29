@@ -11,8 +11,7 @@ Codes description
 
 ### myObjectiveCApps folder
    
-* `StatBarApp`: This example shows the "Status Bar Application" example. This program is useless and usable only<br>
-   as education example. Shows window form by status bar menu click.<br>
+* `StatBarApp`: This example shows the "Status Bar Application" example. This program is useless and usable only as education example. Shows window form by status bar menu click.<br>
    **Note :** This code is not well optimised. If any tips, write me about.<br>
 
    * `All Applications`:<br>
