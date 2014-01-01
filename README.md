@@ -11,10 +11,10 @@ Codes description
 
 ### myObjectiveCApps folder
    
-* `StatBarApp`: This example shows the "Status Bar Application" example. This program is useless and usable only as education example. Shows window form by status bar menu click.<br>
-   **Note :** This code is not well optimised. If any tips, write me about.<br>
+* `StatBarApp`: This example shows the "Status Bar Application" example. This program is useless and usable only as education example. Shows window form by status bar menu click.
 
-   * `All Applications`:<br>
+* `All Applications`:<br>
+   **Note :** This code is not well optimised. If any tips, write me about.<br>
    ***Requires :*** [Xcode][xcode] preinstalled, Mac OS 10.8 or Mac OS 10.9<br>
    ***Important:*** To distribute your compiled program you need an Intel processor for your destination Mac platform.
    
@@ -30,7 +30,7 @@ Exist some reasons for it:
 * I don't like to make one job many times and want to save it in the cloud.
 
 * If someone have same needs he can contribute and improve this code.
-  
+
 * I want to use the `Git` for personal study and project collaboration
 
 ### When do you finish?
